@@ -1,0 +1,10 @@
+.mealInfo{
+    background-color: #ffffff;
+    width:70%;
+    margin: auto;
+    border-radius: 8px;
+    padding:10px;
+    /* margin-top: 250px; */
+    margin-top: 270px;
+    z-index: 1000;
+}

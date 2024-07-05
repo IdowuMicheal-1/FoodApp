@@ -1,0 +1,13 @@
+.label{
+    font-weight: 600;
+}
+
+.input{
+    /* border:0; */
+    border:1px solid #e2dbdb;
+    border-radius: 4px;
+    outline: 0;
+    width:50px;
+    text-align: center;
+    margin-left: 10px;
+}

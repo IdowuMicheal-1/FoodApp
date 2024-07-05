@@ -1,0 +1,44 @@
+.detailPrice{
+    color:rgb(152, 16, 16);
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.cartT{
+    display:flex;
+    gap:20px;
+    align-items: center;
+}
+
+.detailAmount{
+    font-weight: 700;
+    font-size: 12px;
+    border:1px solid #bfbaba;
+    border-radius: 4px;
+    padding:3px
+}
+
+.cartDiv{
+    display:flex;
+    justify-content: space-between;
+}
+
+.addBtn{
+    border: 1px solid saddlebrown;
+    background-color: #ffffff;
+    color:saddlebrown;
+    border-radius: 4px;
+    padding:2px 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btnStyle{
+    display: flex;
+    gap:10px;
+}
+
+.dtDiv{
+    border-bottom: 1px solid saddlebrown;
+    padding:10px
+}
